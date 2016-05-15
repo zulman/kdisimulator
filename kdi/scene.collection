@@ -1,0 +1,147 @@
+name: "default"
+instances {
+  id: "back"
+  prototype: "/kdi/objects/back.go"
+  position {
+    x: 951.50775
+    y: 508.40366
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "mk"
+  prototype: "/kdi/objects/mk.go"
+  position {
+    x: 910.94354
+    y: 310.08975
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "sg"
+  prototype: "/kdi/objects/sg.go"
+  position {
+    x: 338.53754
+    y: 341.63968
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "woz"
+  prototype: "/kdi/objects/woz.go"
+  position {
+    x: 1550.9565
+    y: 305.5826
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "yar"
+  prototype: "/kdi/objects/yar.go"
+  position {
+    x: 1253.4857
+    y: 210.9328
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "guiholder"
+  prototype: "/kdi/objects/guiholder.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+scale_along_z: 0
+embedded_instances {
+  id: "objects"
+  children: "back"
+  children: "mk"
+  children: "sg"
+  children: "woz"
+  children: "yar"
+  data: ""
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 0.7
+    y: 0.7
+    z: 1.0
+  }
+}

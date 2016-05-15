@@ -1,0 +1,24 @@
+images {
+  image: "/kdi/art/raw/back.png"
+}
+images {
+  image: "/kdi/art/raw/mk.png"
+}
+images {
+  image: "/kdi/art/raw/sg.png"
+}
+images {
+  image: "/kdi/art/raw/woz.png"
+}
+images {
+  image: "/kdi/art/raw/yar.png"
+}
+images {
+  image: "/kdi/art/raw/patreon_logo.png"
+}
+images {
+  image: "/kdi/art/raw/Twitter_logo_blue.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

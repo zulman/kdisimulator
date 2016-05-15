@@ -1,0 +1,7 @@
+font: "/fonts/Roboto/Roboto-Regular.ttf"
+material: "/builtins/fonts/font.material"
+size: 40
+outline_alpha: 1.0
+shadow_blur: 1
+shadow_x: 1.0
+shadow_y: 1.0
